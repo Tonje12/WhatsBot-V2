@@ -1,15 +1,15 @@
 module.exports = {
   profile: {
-    ownerName: "", // defult: AiDarkEzio
-    ownerNumb: "", // defult: 94761539856
-    botName: "", // defult: Whats Bot MD
+    ownerName: "", // defult: Ai Alien Tonje
+    ownerNumb: "", // defult: 254114763916
+    botName: "", // defult: OMEGA MD
   },
   reply: {
     notFound: "", // defult: "This Command not created. it was creating",
     success: "", // defult: "Done ✓",
     admin: "", // defult: "This Feature Is Only For Admin!",
-    botAdmin: "", // defult: "Bot Must Be Admin First!",
-    owner: "", // defult: "This Feature Is Only For Owner!",
+    botAdmin: "", // defult: "Bot Must Be Admin First Buddy!",
+    owner: "", // defult: "This Feature Is Only For My Owner!",
     group: "", // defult: "Feature Used Only For Groups!",
     private: "", // defult: "Features Used Only For Private Chat!",
     bot: "", // defult: "This Feature Is Only For Bot",
@@ -35,7 +35,7 @@ module.exports = {
     },
     presence: {
       is: false, // U Can on or off this () | u can set true or false
-      value: "typing", // It has two types | u can set 'recoding' or 'typing'
+      value: "recording", // It has two types | u can set 'recoding' or 'typing'
     },
     read: false, // Boolean | ===== It not created now ======
   },
